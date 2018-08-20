@@ -54,6 +54,6 @@ boot() {
 That's all, now you can reboot cgminer and check it out.
 
 ## Note
-With this emulation and outtake, fans can be disconnected, there's no any checks that fans are installed, only cgminer will check the speeds of fans and prevent miner from starting without working fans.
+With this emulation intake and outtake (both), fans can be disconnected, there's no any checks that fans are installed, only cgminer will check the speeds of fans and prevent miner from starting without working fans.
 
 Feel free to contact me through issues.
